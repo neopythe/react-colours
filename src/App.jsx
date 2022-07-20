@@ -8,7 +8,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <Palette {...seedColours[4]} />
+        <Palette {...seedColours[2]} />
       </div>
     )
   }
