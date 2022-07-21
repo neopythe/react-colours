@@ -29,6 +29,7 @@
   text-transform: lowercase;
   border: none;
   opacity: 0;
+  cursor: pointer;
 }
 
 .box-content {
