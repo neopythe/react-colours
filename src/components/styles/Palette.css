@@ -5,3 +5,12 @@
 .Palette-colours {
   height: 90%;
 }
+
+.slider {
+  width: 350px;
+  margin: 0 10px;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  height: 50px;
+}
