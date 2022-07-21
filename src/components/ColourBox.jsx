@@ -19,7 +19,7 @@ export default class ColourBox extends Component {
   }
 
   render() {
-    const { name, colour: background } = this.props
+    const { name, hex: background } = this.props
     const { copied } = this.state
 
     return (
