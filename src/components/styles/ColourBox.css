@@ -5,7 +5,7 @@
   display: inline-block;
   position: relative;
   cursor: pointer;
-  margin-bottom: -4px;
+  margin-bottom: -5px;
 }
 
 .ColourBox:hover .copy-button {
@@ -30,6 +30,7 @@
   border: none;
   opacity: 0;
   cursor: pointer;
+  font-family: 'Slabo 27px', serif;
 }
 
 .box-content {
